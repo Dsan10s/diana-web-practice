@@ -1,5 +1,20 @@
 # Part 1
 
+## HTML in index.html
+```
+<html>
+	<head>
+		<!-- In here put references to other files you need, like html and css
+		files.  You'll see how this works in p2 -->
+	</head>
+	<body>
+		<!-- In here we'll put elements that define the application -->
+	</body>
+</html>
+```
+
+## Explanation
+
 In this part we defined the basic structure of an html application.  Look at
 index.html.  Here we defined 3 different elements:
 
