@@ -22,6 +22,12 @@
 }
 ```
 
+## Instructions
+Open a web browser and type `file:///`.  This will allow you to navigate your
+computer's file browser using your web browser.  Find where you downloaded this
+repository, and open `p2` and then open `index.html`.  You should see a red
+square in your browser.
+
 ## Explanation
 
 In this part we added a couple of things:
